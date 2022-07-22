@@ -1,0 +1,7 @@
+activate env:
+
+source env/bin/activate
+
+runserver:
+
+python manage.py runserver
